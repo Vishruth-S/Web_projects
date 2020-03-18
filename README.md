@@ -9,3 +9,4 @@ This is a list of websites I have made so far
 
 # Extra projects done
 1) Sample blog:  https://vishruth-s.github.io/myblog/
+2) Startup landing page: https://vishruth-s.github.io/tempweb/
