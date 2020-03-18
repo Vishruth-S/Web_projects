@@ -8,3 +8,4 @@ This is a list of websites I have made so far
 4) My_version_Patatap: https://vishruth-s.github.io/project_patatap/ 
 
 # Extra projects done
+1) Sample blog:  https://vishruth-s.github.io/myblog/
