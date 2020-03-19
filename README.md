@@ -22,7 +22,7 @@ This is a list of websites I have made so far
 2) Startup landing page  
     Website: https://vishruth-s.github.io/tempweb/  
     Project repo:https://github.com/Vishruth-S/tempweb  
-3) Personal Website
+3) Personal Website  
     Website: https://vishruth-s.github.io/Me/    
     Project repo: https://github.com/Vishruth-S/Me    
 4) Food delivery startup
