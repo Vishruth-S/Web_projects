@@ -13,12 +13,12 @@ This is a list of websites I have made so far
     Project repo: https://github.com/Vishruth-S/project_colorgame  
 4) My_version_Patatap  
     Website: https://vishruth-s.github.io/project_patatap/   
-    Project repo:
+    Project repo: https://github.com/Vishruth-S/project_patatap  
 
 # Extra projects done
 1) Sample blog  
     Website:  https://vishruth-s.github.io/myblog/  
-    Project repo: 
+    Project repo: https://github.com/Vishruth-S/myblog  
 2) Startup landing page  
     Website: https://vishruth-s.github.io/tempweb/  
     Project repo:https://github.com/Vishruth-S/tempweb  
